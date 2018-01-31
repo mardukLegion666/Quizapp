@@ -1,0 +1,121 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">>
+    <string name="app_name">Quizapp</string>
+
+    <!-- Text for welcome sign [Char Limit 20 characters]-->
+    <string name="welcome_sign">Welcome to wonderful Bavaria</string>
+
+    <!-- Text for selecting the category [Char Limit 20 characters]-->
+    <string name="category_select">Please select your category:</string>
+
+    <!-- Text for the sights category [Char Limit 20 characters]-->
+    <string name="sights_category">Bavarian sights</string>
+
+    <!-- Text for the traditions category [Char Limit 20 characters]-->
+    <string name="traditions_category">Bavarian traditions</string>
+
+    <!--Questions for the Sights Category -->
+
+    <!-- Text for Question 1 [Char Limit 50 characters]-->
+    <string name="sights_question_1">Which king built the castle of Neuschwanstein?</string>
+
+         <!-- Answers for Question 1 [Char Limit 20 characters]-->
+         <string name="answer_s.1.1">Max I</string>
+         <string name="answer_s.1.2">Karl II</string>
+         <string name="answer_s.1.3">Charlemagne</string>
+         <string name="answer_s.1.right">Ludwig II</string>
+
+    <!-- Text for Question 2 [Char Limit 50 characters]-->
+    <string name="sights_question_2">Who is the patron of Bavaria(often seen as statue)?</string>
+
+         <!--Answers for Question 2-->
+         <string name="answer_s.2.1">Pope Pius I</string>
+         <string name="answer_s.2.2">King Ludwig II</string>
+         <string name="answer_s.2.3">Saint Sebastian</string>
+         <string name="answer_s.2.right">Bavaria</string>
+
+    <!-- Text for Question 3 [Char Limit 50 characters]-->
+    <string name="sights_question_3">What is Bavarias highest mountain</string>
+
+         <!--Answers for Question 3-->
+         <string name="answer_s.3.1">Great Arber</string>
+         <string name="answer_s.3.2">Alpspitze</string>
+         <string name="answer_s.3.3">Watzmann</string>
+         <string name="answer_s.3.right">Zugspitze</string>
+
+    <!-- Text for Question 4 [Char Limit 50 characters]-->
+    <string name="sights_question_4">Which city became Unesco world heritage site?</string>
+
+         <!--Answers for Question 4-->
+         <string name="answer_s.4.1">Nuremberg</string>
+         <string name="answer_s.4.2">Munich</string>
+         <string name="answer_s.4.3">Bayreuth</string>
+         <string name="answer_s.4.right">Bamberg</string>
+
+    <!-- Text for Question 5 [Char Limit 50 characters]-->
+    <string name="sights_question_5">What is the biggest river of Bavaria?</string>
+
+         <!--Answers for Question 3-->
+         <string name="answer_s.5.1">Naab</string>
+         <string name="answer_s.5.2">Isar</string>
+         <string name="answer_s.5.3">Inn</string>
+         <string name="answer_s.5.right">Danube</string>
+
+    <!--Questions for Traditions Category -->
+
+    <!-- Text for Question 1 [Char Limit 50 characters]-->
+    <string name="traditions_question_1">What is not a typical Bavarian festival?</string>
+
+    <!-- Answers for Question 1 [Char Limit 20 characters]-->
+    <string name="t.answer_s.1.1">Strong Beer Fair</string>
+    <string name="t.answer_s.1.2">Wine Fair</string>
+    <string name="t.answer_s.1.3">Parish Fair</string>
+    <string name="t.answer_s.1.right">King Ludwig II Fair</string>
+
+    <!-- Text for Question 2 [Char Limit 50 characters]-->
+    <string name="traditions_question_2">Which tradition does exist on the 1st of May?</string>
+
+    <!-- Answers for Question 2 [Char Limit 20 characters]-->
+    <string name="t.answer_s.2.1">Rolling Beer Barrels</string>
+    <string name="t.answer_s.2.2">Swimming 3 miles</string>
+    <string name="t.answer_s.2.3">Decorating a Horse with ivy</string>
+    <string name="t.answer_s.2.right">Setting up a decorated Tree</string>
+
+    <!-- Text for Question 3 [Char Limit 50 characters]-->
+    <string name="traditions_question_3">Which is a traditional bavarian card game?</string>
+
+    <!-- Answers for Question 3 [Char Limit 20 characters]-->
+    <string name="t.answer_s.3.1">Ligretto</string>
+    <string name="t.answer_s.3.2">Schwarzer Peter</string>
+    <string name="t.answer_s.3.3">Uno</string>
+    <string name="t.answer_s.3.right">Schafkopf</string>
+
+    <!-- Text for Question 4 [Char Limit 50 characters]-->
+    <string name="traditions_question_4">Which is not a traditional bavarian food?</string>
+
+    <!-- Answers for Question 4 [Char Limit 20 characters]-->
+    <string name="t.answer_s.4.1">Meatloaf</string>
+    <string name="t.answer_s.4.2">Roast Pork</string>
+    <string name="t.answer_s.4.3">White Sausage</string>
+    <string name="t.answer_s.4.right">Sturgeon</string>
+
+    <!-- Text for Question 5 [Char Limit 50 characters]-->
+    <string name="traditions_question_5">Which is no traditional bavarian clothing?</string>
+
+    <!-- Answers for Question 5 [Char Limit 20 characters]-->
+    <string name="t.answer_s.5.1">Lederhosn</string>
+    <string name="t.answer_s.5.2">Dirndl</string>
+    <string name="t.answer_s.5.3">Janker</string>
+    <string name="t.answer_s.5.right">Corduroy Suit</string>
+
+
+    <!-- Text for Score [Char Limit 10] -->
+    <string name="sights_score_message">Score: </string>
+
+    <!-- Text for actual Score [Char Limit 1] -->
+    <string name="sights_score">0</string>
+
+    <string name="congratulations_text">Congratulations, you finished the Quiz</string>
+
+
+
+</resources>
